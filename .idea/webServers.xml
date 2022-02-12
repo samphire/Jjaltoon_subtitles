@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="629b357b-060a-4949-b038-c43f77349ad0" name="aws2" url="http://notborder.org">
+        <fileTransfer rootFolder="/var/www/html/" accessType="SFTP" host="notborder.org" port="22" sshConfigId="9063f169-5362-4fae-88c5-dbc2cec23209" sshConfig="ec2-user@notborder.org:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

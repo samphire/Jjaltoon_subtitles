@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="notborder.org" id="9063f169-5362-4fae-88c5-dbc2cec23209" keyPath="C:\Users\oakle\.ssh\matt_linux2.ppk" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+    </configs>
+  </component>
+</project>
